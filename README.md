@@ -5,7 +5,7 @@ This course was developed by Scott Goldin at DSST Montview High School from 2024
 
 **Disclaimer this is a work in progress and will require modification to fit your classroom environment**
 
-**The recommended way to use this curriculum is to follow along with the scope and sequence document for day-to-day lesson planning, and then use the materials in the folders that correspond with the daily lessons. The scope and seuqence is also attached on the readme for convenience.**
+**The recommended way to use this curriculum is to follow along with the course's scope and sequence outlined below for day-to-day lesson planning, and then use the materials in the folders that correspond with the daily lessons. The scope and seuqence is also included as a word doc for convience.**
 
 # Intro to Computer Science — Goldin
 
